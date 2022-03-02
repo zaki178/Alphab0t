@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/zaki178/Alphab0t/blob/v16/Tiktok%20No%20WM_1_1.mp4" alt="HARUKA BOT" height = "150" width="150"/>
+
 # ```SELF-BOT```
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
